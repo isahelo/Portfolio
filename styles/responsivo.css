@@ -1,0 +1,36 @@
+/* @media (max-width: 1280px){
+body{
+    padding: 0 ;
+}
+}
+
+
+@media (max-width: 768px){
+.apresentacao__links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+}
+
+@media (max-width 425px){
+
+.cabecalho{
+    padding: 0;
+}
+
+.apresentacao{
+max-width: 425px;
+min-height: 538px;
+width: 100%;
+}
+
+
+.rodape{
+position: static;
+min-height: auto;
+
+}
+} */
